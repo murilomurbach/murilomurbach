@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=36BCF7FF"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Devs%2C+my+name+is+Murilo;I'm+a+programming+student+from+S%C3%A3o+Paulo%2C+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Devs%2C+my+name+is+Murilo;I'm+a+developer+from+Brazil.)](https://git.io/typing-svg)
 &nbsp;
 &nbsp;
 
 <h1 align="center">About Me</h1>
-<h3 align="center"> | Programming student |</h3>
+<h3 align="center"> Programming student </h3>
 <p align="center">
   I've liked programming since I was a kid. I had my first contact with it when I was around 12 years old. At that time, I was curious about how websites and apps worked behind the scenes, so I started researching and watching videos about it. Over time, I began learning on my own, exploring programming languages. Since then, programming has become a passion and something I want to pursue as a career in the future.
 </p>
