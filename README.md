@@ -32,7 +32,7 @@
 </h2>
 
 <div align="center">  
-  <img src="https://api.victims.bio/discord/user/discord-arts/1051989185659154442/card" alt="discord" /> 
+  <img src="https://api.victims.bio/discord/user/discord-arts/447440077321404416/card" alt="discord" /> 
 </div>
 
 &nbsp;
